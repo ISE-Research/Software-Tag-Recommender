@@ -4,7 +4,7 @@ This repository contains all our exploration on the use of machine learning meth
 Access this dataset and source code by following this link: <a href="https://github.com/MalihehIzadi/SoftwareTagRecommender" target="_blank">https://github.com/MalihehIzadi/SoftwareTagRecommender</a>
 
 ## Citation
-This work is accepted for publication in Empirical Software Engineering Journal, under the title of ["Topic Recommendation for Software Repositories using Multi-label Classification Algorithms"](https://rdcu.be/cn1pi).
+This work is accepted for publication in **Empirical Software Engineering Journal**, under the title of ["Topic Recommendation for Software Repositories using Multi-label Classification Algorithms"](https://rdcu.be/cn1pi).
 
 ```python
 @article{izadi2021topic,
